@@ -17,4 +17,6 @@ How to Use GIT
 	-- git add *       -- This will add all files.
 2. Commit Changes
 	-- git commit -m "Your message goes like this"
+3.
+	-- git push
 
